@@ -4,12 +4,13 @@ body {
 
 /* line 5, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
 .starter-template {
-  max-width: 350px;
+  width: 300px;
+  zoom: 70%;
   margin-left: auto;
   margin-right: auto;
   display: block; }
 
-/* line 12, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
+/* line 13, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
 .eezie-animation1 {
   width: 100px;
   height: 100px;
@@ -98,7 +99,7 @@ body {
     left: 105px;
     top: 100px; } }
 
-/* line 52, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
+/* line 53, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
 .eezie-animation2 {
   width: 70px;
   height: 70px;
@@ -147,7 +148,7 @@ body {
     left: -5px;
     top: 15px; } }
 
-/* line 82, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
+/* line 83, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
 .eezie-animation3 {
   width: 70px;
   opacity: 0.8;
@@ -196,7 +197,7 @@ body {
     left: 50px;
     top: -55px; } }
 
-/* line 113, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
+/* line 114, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
 .eezie-animation4 {
   width: 70px;
   opacity: 0.8;
@@ -245,7 +246,7 @@ body {
     left: 190px;
     top: -125px; } }
 
-/* line 143, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
+/* line 144, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
 .eezie-animation5 {
   width: 70px;
   opacity: 0.8;
