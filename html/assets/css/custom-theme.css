@@ -39,15 +39,13 @@ body {
     left: 105px;
     top: 100px; }
   80% {
-    background-color: #95e38e;
+    background-color: #72da3f;
     left: 105px;
-    top: 100px;
-    border: solid 10px rgba(149, 227, 142, 0.68); }
+    top: 100px; }
   100% {
-    background-color: #95e38e;
+    background-color: #72da3f;
     left: 105px;
-    top: 100px;
-    border: solid 10px rgba(149, 227, 142, 0.68); } }
+    top: 100px; } }
 
 /* Standard syntax */
 @keyframes eezie1 {
@@ -60,17 +58,47 @@ body {
     left: 105px;
     top: 100px; }
   80% {
-    background-color: #95e38e;
+    background-color: #629a5d;
     left: 105px;
-    top: 100px;
-    border: solid 10px rgba(149, 227, 142, 0.68); }
-  100% {
-    background-color: #95e38e;
+    top: 100px; }
+  82% {
+    background-color: #7cc576;
+    left: 100px;
+    top: 105px; }
+  83% {
+    background-color: #629a5d;
     left: 105px;
-    top: 100px;
-    border: solid 10px rgba(149, 227, 142, 0.68); } }
+    top: 100px; }
+  84% {
+    background-color: #7cc576;
+    left: 100px;
+    top: 105px; }
+  85% {
+    background-color: #629a5d;
+    left: 105px;
+    top: 100px; }
+  86% {
+    background-color: #7cc576;
+    left: 100px;
+    top: 105px; }
+  87% {
+    background-color: #629a5d;
+    left: 105px;
+    top: 100px; }
+  88% {
+    background-color: #7cc576;
+    left: 100px;
+    top: 105px; }
+  89% {
+    background-color: #629a5d;
+    left: 105px;
+    top: 100px; }
+  90% {
+    background-color: #7cc576;
+    left: 105px;
+    top: 100px; } }
 
-/* line 44, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
+/* line 52, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
 .eezie-animation2 {
   width: 70px;
   height: 70px;
@@ -119,7 +147,7 @@ body {
     left: -5px;
     top: 15px; } }
 
-/* line 74, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
+/* line 82, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
 .eezie-animation3 {
   width: 70px;
   opacity: 0.8;
@@ -161,14 +189,14 @@ body {
     top: 1600px; }
   80% {
     background-color: #ff915d;
-    left: 40px;
+    left: 50px;
     top: 160px; }
   100% {
     background-color: #f26522;
-    left: 40px;
+    left: 50px;
     top: -55px; } }
 
-/* line 105, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
+/* line 113, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
 .eezie-animation4 {
   width: 70px;
   opacity: 0.8;
@@ -217,7 +245,7 @@ body {
     left: 190px;
     top: -125px; } }
 
-/* line 135, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
+/* line 143, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
 .eezie-animation5 {
   width: 70px;
   opacity: 0.8;

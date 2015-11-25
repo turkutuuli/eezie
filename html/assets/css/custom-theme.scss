@@ -29,16 +29,24 @@ body {
 @-webkit-keyframes eezie1 {
     0%   {background-color:#7cc576; left:-100px; top:-100px;}
     65%  {background-color:#7ddd74; left:105px; top:100px;}
-    80%  {background-color:#95e38e; left:105px; top:100px; border: solid 10px rgba(149, 227, 142, 0.68);}
-    100%  {background-color:#95e38e; left:105px; top:100px; border: solid 10px rgba(149, 227, 142, 0.68);}
+    80%  {background-color:#72da3f; left:105px; top:100px;}
+    100%  {background-color:#72da3f; left:105px; top:100px;}
 }
 
 /* Standard syntax */
 @keyframes eezie1 {
     0%   {background-color:#7cc576; left:-105px; top:-100px;}
     65%  {background-color:#7ddd74; left:105px; top:100px;}
-    80%  {background-color:#95e38e; left:105px; top:100px; border: solid 10px rgba(149, 227, 142, 0.68);}
-    100%  {background-color:#95e38e; left:105px; top:100px; border: solid 10px rgba(149, 227, 142, 0.68);}
+    80%  {background-color:#629a5d; left:105px; top:100px;}
+    82%  {background-color:#7cc576; left:100px; top:105px;}
+    83%  {background-color:#629a5d; left:105px; top:100px;}
+    84%  {background-color:#7cc576; left:100px; top:105px;}
+    85%  {background-color:#629a5d; left:105px; top:100px;}
+    86%  {background-color:#7cc576; left:100px; top:105px;}
+    87%  {background-color:#629a5d; left:105px; top:100px;}
+    88%  {background-color:#7cc576; left:100px; top:105px;}
+    89%  {background-color:#629a5d; left:105px; top:100px;}
+    90%  {background-color:#7cc576; left:105px; top:100px;}
 }
 
 .eezie-animation2 {
@@ -97,8 +105,8 @@ body {
 /* Standard syntax */
 @keyframes eezie3 {
     0%   {background-color:#f26522; left:-100px; top:1600px;}
-    80%  {background-color:#ff915d;  left:40px; top:160px;}
-    100%  {background-color:#f26522; left:40px; top:-55px;}
+    80%  {background-color:#ff915d;  left:50px; top:160px;}
+    100%  {background-color:#f26522; left:50px; top:-55px;}
 }
 
 
