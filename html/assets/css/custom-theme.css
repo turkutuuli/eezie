@@ -11,11 +11,11 @@ body {
 
 /* line 12, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
 .eezie-animation1 {
-  width: 90px;
-  height: 90px;
+  width: 100px;
+  height: 100px;
   opacity: 0.8;
-  left: 95px;
-  top: 95px;
+  left: 105px;
+  top: 100px;
   border-radius: 100px;
   background-color: #7cc576;
   background-image: url("../../imgs/z.svg");
@@ -36,38 +36,38 @@ body {
     top: -100px; }
   65% {
     background-color: #7ddd74;
-    left: 95px;
-    top: 95px; }
+    left: 105px;
+    top: 100px; }
   80% {
     background-color: #95e38e;
-    left: 95px;
-    top: 95px;
+    left: 105px;
+    top: 100px;
     border: solid 10px rgba(149, 227, 142, 0.68); }
   100% {
     background-color: #95e38e;
-    left: 95px;
-    top: 95px;
+    left: 105px;
+    top: 100px;
     border: solid 10px rgba(149, 227, 142, 0.68); } }
 
 /* Standard syntax */
 @keyframes eezie1 {
   0% {
     background-color: #7cc576;
-    left: -100px;
+    left: -105px;
     top: -100px; }
   65% {
     background-color: #7ddd74;
-    left: 95px;
-    top: 95px; }
+    left: 105px;
+    top: 100px; }
   80% {
     background-color: #95e38e;
-    left: 95px;
-    top: 95px;
+    left: 105px;
+    top: 100px;
     border: solid 10px rgba(149, 227, 142, 0.68); }
   100% {
     background-color: #95e38e;
-    left: 95px;
-    top: 95px;
+    left: 105px;
+    top: 100px;
     border: solid 10px rgba(149, 227, 142, 0.68); } }
 
 /* line 44, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
@@ -75,7 +75,7 @@ body {
   width: 70px;
   height: 70px;
   opacity: 0.8;
-  left: -15px;
+  left: -5px;
   top: 15px;
   border-radius: 60px;
   background-color: #ec008b;
@@ -101,7 +101,7 @@ body {
     top: -140px; }
   100% {
     background-color: #ec008b;
-    left: -15px;
+    left: -5px;
     top: 15px; } }
 
 /* Standard syntax */
@@ -116,7 +116,7 @@ body {
     top: -140px; }
   100% {
     background-color: #ec008b;
-    left: -15px;
+    left: -5px;
     top: 15px; } }
 
 /* line 74, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
@@ -124,7 +124,7 @@ body {
   width: 70px;
   opacity: 0.8;
   height: 70px;
-  left: 40px;
+  left: 50px;
   top: -55px;
   border-radius: 100px;
   background-color: #f26522;
@@ -173,7 +173,7 @@ body {
   width: 70px;
   opacity: 0.8;
   height: 70px;
-  left: 170px;
+  left: 190px;
   top: -125px;
   border-radius: 100px;
   background-color: #428cca;
@@ -199,7 +199,7 @@ body {
     top: 0px; }
   100% {
     background-color: #428cca;
-    left: 170px;
+    left: 190px;
     top: -125px; } }
 
 /* Standard syntax */
@@ -214,7 +214,7 @@ body {
     top: 0px; }
   100% {
     background-color: #428cca;
-    left: 170px;
+    left: 190px;
     top: -125px; } }
 
 /* line 135, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
@@ -222,7 +222,7 @@ body {
   width: 70px;
   opacity: 0.8;
   height: 70px;
-  left: 225px;
+  left: 245px;
   top: -195px;
   border-radius: 100px;
   background-color: #8c48c0;
@@ -248,7 +248,7 @@ body {
     top: -100px; }
   100% {
     background-color: #8c48c0;
-    left: 225px;
+    left: 245px;
     top: -195px; } }
 
 /* Standard syntax */
@@ -263,7 +263,7 @@ body {
     top: -100px; }
   100% {
     background-color: #8c48c0;
-    left: 225px;
+    left: 245px;
     top: -195px; } }
 
 /*# sourceMappingURL=custom-theme.css.map */
