@@ -1,0 +1,269 @@
+/* line 1, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
+body {
+  background-color: #111; }
+
+/* line 5, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
+.starter-template {
+  max-width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block; }
+
+/* line 12, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
+.eezie-animation1 {
+  width: 90px;
+  height: 90px;
+  opacity: 0.8;
+  left: 95px;
+  top: 95px;
+  border-radius: 100px;
+  background-color: #7cc576;
+  background-image: url("../../imgs/z.svg");
+  background-size: cover;
+  position: relative;
+  -webkit-animation-name: eezie1;
+  /* Chrome, Safari, Opera */
+  -webkit-animation-duration: 4s;
+  /* Chrome, Safari, Opera */
+  animation-name: eezie1;
+  animation-duration: 4s; }
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes eezie1 {
+  0% {
+    background-color: #7cc576;
+    left: -100px;
+    top: -100px; }
+  65% {
+    background-color: #7ddd74;
+    left: 95px;
+    top: 95px; }
+  80% {
+    background-color: #95e38e;
+    left: 95px;
+    top: 95px;
+    border: solid 10px rgba(149, 227, 142, 0.68); }
+  100% {
+    background-color: #95e38e;
+    left: 95px;
+    top: 95px;
+    border: solid 10px rgba(149, 227, 142, 0.68); } }
+
+/* Standard syntax */
+@keyframes eezie1 {
+  0% {
+    background-color: #7cc576;
+    left: -100px;
+    top: -100px; }
+  65% {
+    background-color: #7ddd74;
+    left: 95px;
+    top: 95px; }
+  80% {
+    background-color: #95e38e;
+    left: 95px;
+    top: 95px;
+    border: solid 10px rgba(149, 227, 142, 0.68); }
+  100% {
+    background-color: #95e38e;
+    left: 95px;
+    top: 95px;
+    border: solid 10px rgba(149, 227, 142, 0.68); } }
+
+/* line 44, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
+.eezie-animation2 {
+  width: 70px;
+  height: 70px;
+  opacity: 0.8;
+  left: -15px;
+  top: 15px;
+  border-radius: 60px;
+  background-color: #ec008b;
+  background-image: url("../../imgs/e.svg");
+  background-size: cover;
+  position: relative;
+  -webkit-animation-name: eezie2;
+  /* Chrome, Safari, Opera */
+  -webkit-animation-duration: 5s;
+  /* Chrome, Safari, Opera */
+  animation-name: eezie2;
+  animation-duration: 5s; }
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes eezie2 {
+  0% {
+    background-color: #ec008b;
+    left: -100px;
+    top: -600px; }
+  80% {
+    background-color: #eb58af;
+    left: 100px;
+    top: -140px; }
+  100% {
+    background-color: #ec008b;
+    left: -15px;
+    top: 15px; } }
+
+/* Standard syntax */
+@keyframes eezie2 {
+  0% {
+    background-color: #ec008b;
+    left: -100px;
+    top: -600px; }
+  80% {
+    background-color: #eb58af;
+    left: 100px;
+    top: -140px; }
+  100% {
+    background-color: #ec008b;
+    left: -15px;
+    top: 15px; } }
+
+/* line 74, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
+.eezie-animation3 {
+  width: 70px;
+  opacity: 0.8;
+  height: 70px;
+  left: 40px;
+  top: -55px;
+  border-radius: 100px;
+  background-color: #f26522;
+  background-image: url("../../imgs/e.svg");
+  background-size: cover;
+  position: relative;
+  -webkit-animation-name: eezie3;
+  /* Chrome, Safari, Opera */
+  -webkit-animation-duration: 5s;
+  /* Chrome, Safari, Opera */
+  animation-name: eezie3;
+  animation-duration: 5s; }
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes eezie3 {
+  0% {
+    background-color: #f26522;
+    left: -100px;
+    top: 1600px; }
+  80% {
+    background-color: #ff915d;
+    left: 40px;
+    top: 160px; }
+  100% {
+    background-color: #f26522;
+    left: 40px;
+    top: -55px; } }
+
+/* Standard syntax */
+@keyframes eezie3 {
+  0% {
+    background-color: #f26522;
+    left: -100px;
+    top: 1600px; }
+  80% {
+    background-color: #ff915d;
+    left: 40px;
+    top: 160px; }
+  100% {
+    background-color: #f26522;
+    left: 40px;
+    top: -55px; } }
+
+/* line 105, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
+.eezie-animation4 {
+  width: 70px;
+  opacity: 0.8;
+  height: 70px;
+  left: 170px;
+  top: -125px;
+  border-radius: 100px;
+  background-color: #428cca;
+  background-image: url("../../imgs/i.svg");
+  background-size: cover;
+  position: relative;
+  -webkit-animation-name: eezie4;
+  /* Chrome, Safari, Opera */
+  -webkit-animation-duration: 5s;
+  /* Chrome, Safari, Opera */
+  animation-name: eezie4;
+  animation-duration: 5s; }
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes eezie4 {
+  0% {
+    background-color: #428cca;
+    left: -500px;
+    top: 0px; }
+  85% {
+    background-color: #1c98ff;
+    left: 100px;
+    top: 0px; }
+  100% {
+    background-color: #428cca;
+    left: 170px;
+    top: -125px; } }
+
+/* Standard syntax */
+@keyframes eezie4 {
+  0% {
+    background-color: #428cca;
+    left: -500px;
+    top: 0px; }
+  85% {
+    background-color: #1c98ff;
+    left: 0px;
+    top: 0px; }
+  100% {
+    background-color: #428cca;
+    left: 170px;
+    top: -125px; } }
+
+/* line 135, /Users/tuulia/Documents/Projects/eezie/html/assets/css/custom-theme.scss */
+.eezie-animation5 {
+  width: 70px;
+  opacity: 0.8;
+  height: 70px;
+  left: 225px;
+  top: -195px;
+  border-radius: 100px;
+  background-color: #8c48c0;
+  background-image: url("../../imgs/e.svg");
+  background-size: cover;
+  position: relative;
+  -webkit-animation-name: eezie5;
+  /* Chrome, Safari, Opera */
+  -webkit-animation-duration: 5s;
+  /* Chrome, Safari, Opera */
+  animation-name: eezie5;
+  animation-duration: 5s; }
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes eezie5 {
+  0% {
+    background-color: #b06fe1;
+    left: 3000px;
+    top: 0px; }
+  80% {
+    background-color: #b06fe1;
+    left: 200px;
+    top: -100px; }
+  100% {
+    background-color: #8c48c0;
+    left: 225px;
+    top: -195px; } }
+
+/* Standard syntax */
+@keyframes eezie5 {
+  0% {
+    background-color: #b06fe1;
+    left: 3000px;
+    top: -100px; }
+  80% {
+    background-color: #b06fe1;
+    left: 200px;
+    top: -100px; }
+  100% {
+    background-color: #8c48c0;
+    left: 225px;
+    top: -195px; } }
+
+/*# sourceMappingURL=custom-theme.css.map */
